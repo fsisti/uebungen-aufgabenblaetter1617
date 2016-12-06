@@ -1,8 +1,8 @@
-package musterLösungen.uebung6;
+package gridworld.framework.actor;
 
 import gridworld.framework.actor.ActorWorld;
 
-public class MyGridWorld2 {
+public class MyGridWorld {
 	
 	public static void main(String[] args) {
 		
